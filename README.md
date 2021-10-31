@@ -25,7 +25,8 @@ https://github.com/arjunsk/yata-dashboard-hacktx/blob/9ae5d9e4a93576193dd655b79d
 #3. Start the development server with Browsersync reloading
 npm run dev
 
-#4. Open this url in your browser: http://localhost:3000/public/index.html
+#4. Open the below url in your browser
+http://localhost:3000/public/index.html
 ```
 
 ## Reference:
