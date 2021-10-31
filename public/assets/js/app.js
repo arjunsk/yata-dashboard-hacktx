@@ -51,7 +51,11 @@ function autoScroll() {
 
 
 
-
+const awsCredentials = {
+  region: "us-east-2",
+  accessKeyId: "XXXX", 
+  secretAccessKey: "XXXX", 
+};
 
 AWS.config.update(awsCredentials);
 
