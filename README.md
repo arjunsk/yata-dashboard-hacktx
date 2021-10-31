@@ -14,14 +14,18 @@
 ## Getting started
 
 ```sh
+#1. Clone
 git clone https://github.com/arjunsk/yata-dashboard-hacktx.git
 cd yata-dashboard-hacktx
 npm install
 
-#1. Start the development server with Browsersync reloading
+#2. Update AWS Creds at the following line
+https://github.com/arjunsk/yata-dashboard-hacktx/blob/9ae5d9e4a93576193dd655b79d8ce63f706ea0d4/public/assets/js/app.js#L52
+
+#3. Start the development server with Browsersync reloading
 npm run dev
 
-#2. Open this url in your browser: http://localhost:3000/public/index.html
+#4. Open this url in your browser: http://localhost:3000/public/index.html
 ```
 
 ## Reference:
