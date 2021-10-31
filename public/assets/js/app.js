@@ -49,8 +49,6 @@ function autoScroll() {
   }
 }
 
-
-
 const awsCredentials = {
   region: "us-east-2",
   accessKeyId: "XXXX", 
