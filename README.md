@@ -8,6 +8,7 @@
 * Vanilla JavaScript
 * ES6
 * Browsersync
+* AWS CDK for Kinesis
 
 
 ## Reference:
