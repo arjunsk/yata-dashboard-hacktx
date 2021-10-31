@@ -14,8 +14,8 @@
 ## Getting started
 
 ```sh
-git clone https://github.com/PiotrBerebecki/speech-recognition-app.git
-cd speech-recognition-app
+git clone https://github.com/arjunsk/yata-dashboard-hacktx.git
+cd yata-dashboard-hacktx
 npm install
 
 #1. Start the development server with Browsersync reloading
